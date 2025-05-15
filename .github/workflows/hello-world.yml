@@ -8,5 +8,3 @@ jobs:
         steps:
             - name: Echo Text
               run: echo "Hello, world!"
-
-
